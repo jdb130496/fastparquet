@@ -1,6 +1,8 @@
 fastparquet
 ===========
 
+Before the standard description that follows for this package, I have changed setup.cfg to build fastparquet on Windows using mingw64 gcc-tool-chain. Built it in Msys2 with pip install .
+
 .. image:: https://github.com/dask/fastparquet/actions/workflows/main.yaml/badge.svg
     :target: https://github.com/dask/fastparquet/actions/workflows/main.yaml
 
